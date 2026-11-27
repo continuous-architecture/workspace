@@ -1,0 +1,382 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="2618" height="2092" viewBox="0 0 2618 2092">
+<title>Métamodèle d'architecture d'entreprise (brouillon)</title>
+<defs><style>@font-face{font-family:'IBM Plex Sans Condensed';font-weight:700;font-style:normal;src:url(data:font/woff2;base64,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) format('woff2')}@font-face{font-family:'IBM Plex Sans Condensed';font-weight:400;font-style:normal;src:url(data:font/woff2;base64,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) format('woff2')}@font-face{font-family:'EB Garamond';font-weight:700;font-style:normal;src:url(data:font/woff2;base64,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) format('woff2')}.b{font-family:"IBM Plex Sans Condensed",sans-serif;font-weight:700;fill:#1b2935}.r{font-family:"IBM Plex Sans Condensed",sans-serif;font-weight:400;fill:#1b2935}.t{font-family:"EB Garamond",serif;font-weight:700;fill:#1c2631}.c{fill:none;stroke:#e46765;stroke-linecap:round;stroke-linejoin:round}</style>
+<filter id="sh" x="-5%" y="-15%" width="112%" height="132%"><feDropShadow dx="6" dy="6" stdDeviation="3.5" flood-color="#000" flood-opacity="0.4"/></filter></defs>
+<rect width="2618" height="2092" fill="#ebebeb"/>
+<g fill="none" stroke="#1e2d3b" stroke-width="3" stroke-dasharray="11 8.634"><line x1="11.5" y1="10.5" x2="2603" y2="10.5"/><line x1="2603" y1="10.5" x2="2603" y2="2077"/><line x1="11.5" y1="10.5" x2="11.5" y2="2077"/><line x1="11.5" y1="2077" x2="2603" y2="2077"/></g>
+<rect x="735.5" y="35.5" width="1147" height="159" rx="27" fill="#fff" stroke="#1c2631" stroke-width="3" filter="url(#sh)"/>
+<text class="t" font-size="63.1" text-anchor="middle" x="1309" y="101.0">Architecture d'entreprise</text>
+<text class="t" font-size="63.1" text-anchor="middle" x="1309" y="170.0">Métamodèle — brouillon</text>
+<g class="groups">
+<a href="https://github.com/continuous-architecture/workspace/blob/main/projets/metamodeles/metamodele-ea.md#paquetage-gouvernance" xlink:href="https://github.com/continuous-architecture/workspace/blob/main/projets/metamodeles/metamodele-ea.md#paquetage-gouvernance" target="_top"><title>Gouvernance</title>
+<g class="group" data-anchor="paquetage-gouvernance" data-label="Gouvernance">
+<rect x="36" y="222" width="2522" height="358" rx="14" fill="none" stroke="#1b2935" stroke-width="2" stroke-dasharray="11 8"/>
+<text class="b" font-size="24" letter-spacing="2.2" x="60" y="260">GOUVERNANCE</text>
+<text class="r" font-size="21.5" x="259.7" y="260">transverse — contraint chaque élément de chaque paquetage</text>
+</g>
+</a>
+<a href="https://github.com/continuous-architecture/workspace/blob/main/projets/metamodeles/metamodele-ea.md#paquetage-strat%C3%A9gie" xlink:href="https://github.com/continuous-architecture/workspace/blob/main/projets/metamodeles/metamodele-ea.md#paquetage-strat%C3%A9gie" target="_top"><title>Stratégie</title>
+<g class="group" data-anchor="paquetage-stratégie" data-label="Stratégie">
+<rect x="470" y="620" width="432" height="682" rx="14" fill="none" stroke="#1b2935" stroke-width="2" stroke-dasharray="11 8"/>
+<text class="b" font-size="24" letter-spacing="2.2" x="494" y="658">STRATÉGIE</text>
+<text class="r" font-size="21.5" x="647.1" y="658">pourquoi</text>
+</g>
+</a>
+<a href="https://github.com/continuous-architecture/workspace/blob/main/projets/metamodeles/metamodele-ea.md#paquetage-organisation" xlink:href="https://github.com/continuous-architecture/workspace/blob/main/projets/metamodeles/metamodele-ea.md#paquetage-organisation" target="_top"><title>Organisation</title>
+<g class="group" data-anchor="paquetage-organisation" data-label="Organisation">
+<rect x="470" y="1342" width="432" height="382" rx="14" fill="none" stroke="#1b2935" stroke-width="2" stroke-dasharray="11 8"/>
+<text class="b" font-size="24" letter-spacing="2.2" x="494" y="1380">ORGANISATION</text>
+<text class="r" font-size="21.5" x="701.3" y="1380">qui</text>
+</g>
+</a>
+<a href="https://github.com/continuous-architecture/workspace/blob/main/projets/metamodeles/metamodele-ea.md#paquetage-domaine" xlink:href="https://github.com/continuous-architecture/workspace/blob/main/projets/metamodeles/metamodele-ea.md#paquetage-domaine" target="_top"><title>Domaine</title>
+<g class="group" data-anchor="paquetage-domaine" data-label="Domaine">
+<rect x="1022" y="816" width="432" height="618" rx="14" fill="#dedede" stroke="#1b2935" stroke-width="2"/>
+<text class="b" font-size="24" letter-spacing="2.2" x="1046" y="854">DOMAINE</text>
+<text class="r" font-size="21.5" x="1176.7" y="854">ce que sait le métier</text>
+</g>
+</a>
+<a href="https://github.com/continuous-architecture/workspace/blob/main/projets/metamodeles/metamodele-ea.md#paquetage-syst%C3%A8me" xlink:href="https://github.com/continuous-architecture/workspace/blob/main/projets/metamodeles/metamodele-ea.md#paquetage-syst%C3%A8me" target="_top"><title>Système</title>
+<g class="group" data-anchor="paquetage-système" data-label="Système">
+<rect x="1574" y="720" width="432" height="472" rx="14" fill="#dedede" stroke="#1b2935" stroke-width="2"/>
+<text class="b" font-size="24" letter-spacing="2.2" x="1598" y="758">SYSTÈME</text>
+<text class="r" font-size="21.5" x="1724.5" y="758">ce qui tourne</text>
+</g>
+</a>
+<a href="https://github.com/continuous-architecture/workspace/blob/main/projets/metamodeles/metamodele-ea.md#paquetage-donn%C3%A9es" xlink:href="https://github.com/continuous-architecture/workspace/blob/main/projets/metamodeles/metamodele-ea.md#paquetage-donn%C3%A9es" target="_top"><title>Données</title>
+<g class="group" data-anchor="paquetage-données" data-label="Données">
+<rect x="1574" y="1232" width="432" height="334" rx="14" fill="#dedede" stroke="#1b2935" stroke-width="2"/>
+<text class="b" font-size="24" letter-spacing="2.2" x="1598" y="1270">DONNÉES</text>
+<text class="r" font-size="21.5" x="1728.8" y="1270">stockage</text>
+</g>
+</a>
+<a href="https://github.com/continuous-architecture/workspace/blob/main/projets/metamodeles/metamodele-ea.md#paquetage-d%C3%A9ploiement" xlink:href="https://github.com/continuous-architecture/workspace/blob/main/projets/metamodeles/metamodele-ea.md#paquetage-d%C3%A9ploiement" target="_top"><title>Déploiement</title>
+<g class="group" data-anchor="paquetage-déploiement" data-label="Déploiement">
+<rect x="2126" y="800" width="432" height="660" rx="14" fill="#dedede" stroke="#1b2935" stroke-width="2"/>
+<text class="b" font-size="24" letter-spacing="2.2" x="2150" y="838">DÉPLOIEMENT</text>
+<text class="r" font-size="21.5" x="2339.4" y="838">où ça tourne</text>
+</g>
+</a>
+<a href="https://github.com/continuous-architecture/workspace/blob/main/projets/metamodeles/metamodele-ea.md#paquetage-transformation" xlink:href="https://github.com/continuous-architecture/workspace/blob/main/projets/metamodeles/metamodele-ea.md#paquetage-transformation" target="_top"><title>Transformation</title>
+<g class="group" data-anchor="paquetage-transformation" data-label="Transformation">
+<rect x="36" y="1764" width="2522" height="196" rx="14" fill="none" stroke="#1b2935" stroke-width="2" stroke-dasharray="11 8"/>
+<text class="b" font-size="24" letter-spacing="2.2" x="60" y="1938">TRANSFORMATION</text>
+<text class="r" font-size="21.5" x="304.3" y="1938">transverse — fait passer chaque paquetage d'un plateau au suivant</text>
+</g>
+</a>
+</g>
+<g class="edges">
+<path class="c" stroke-width="2.5" d="M110.0,1190.0 C110.0,786.0 110.0,786.0 110.0,382.0"/>
+<path class="c" stroke-width="2.5" d="M110.0,1326.0 C110.0,1557.0 110.0,1557.0 110.0,1788.0"/>
+<path class="c" stroke-width="2.5" d="M360.0,1230.8 C427.0,1230.8 427.0,1059.0 494.0,1059.0"/>
+<path class="c" stroke-width="2.5" d="M360.0,1285.2 C427.0,1285.2 427.0,1457.0 494.0,1457.0"/>
+<path class="c" stroke-width="2.5" d="M686.0,792.0 C686.0,822.0 686.0,810.0 686.0,840.0"/>
+<path class="c" stroke-width="2.5" d="M686.0,1002.0 C686.0,972.0 686.0,984.0 686.0,954.0"/>
+<path class="c" stroke-width="2.5" d="M686.0,1116.0 C686.0,1146.0 686.0,1134.0 686.0,1164.0"/>
+<path class="c" stroke-width="2.5" d="M686.0,1514.0 C686.0,1544.0 686.0,1532.0 686.0,1562.0"/>
+<path class="c" stroke-width="2.5" d="M878.0,897.0 C962.0,897.0 962.0,931.0 1046.0,931.0"/>
+<path class="c" stroke-width="2.5" d="M878.0,1631.0 C962.0,1631.0 962.0,1142.0 1046.0,1142.0"/>
+<path class="c" stroke-width="2.5" d="M1238.0,988.0 C1238.0,1038.0 1238.0,1038.0 1238.0,1088.0"/>
+<path class="c" stroke-width="2.5" d="M1238.0,1196.0 C1238.0,1246.0 1238.0,1246.0 1238.0,1296.0"/>
+<path class="c" stroke-width="2.5" d="M1430.0,1142.0 C1514.0,1142.0 1514.0,823.0 1598.0,823.0"/>
+<path class="c" stroke-width="2.5" d="M1430.0,1353.0 C1514.0,1353.0 1514.0,1347.0 1598.0,1347.0"/>
+<path class="c" stroke-width="2.5" d="M1790.0,868.0 C1790.0,898.0 1790.0,886.0 1790.0,916.0"/>
+<path class="c" stroke-width="2.5" d="M1790.0,1006.0 C1790.0,1036.0 1790.0,1024.0 1790.0,1054.0"/>
+<path class="c" stroke-width="2.5" d="M1874.5,1168.0 C1874.5,1229.0 1874.5,1229.0 1874.5,1290.0"/>
+<path class="c" stroke-width="2.5" d="M1790.0,1404.0 C1790.0,1434.0 1790.0,1422.0 1790.0,1452.0"/>
+<path class="c" stroke-width="2.5" d="M1982.0,974.5 C2066.0,974.5 2066.0,1135.0 2150.0,1135.0"/>
+<path class="c" stroke-width="2.5" d="M1982.0,943.0 C2023.5,943.0 2065.1,749.5 2065.1,556.0"/>
+<path class="c" stroke-width="2.5" d="M1982.0,1347.0 C2066.0,1347.0 2066.0,1379.0 2150.0,1379.0"/>
+<path class="c" stroke-width="2.5" d="M2342.0,948.0 C2342.0,1013.0 2342.0,1013.0 2342.0,1078.0"/>
+<path class="c" stroke-width="2.5" d="M2342.0,1192.0 C2342.0,1257.0 2342.0,1257.0 2342.0,1322.0"/>
+<path class="c" stroke-width="2.5" d="M581.0,337.0 C646.0,337.0 646.0,337.0 711.0,337.0"/>
+<path class="c" stroke-width="2.5" d="M320.5,382.0 C320.5,412.0 320.5,412.0 320.5,442.0"/>
+<path class="c" stroke-width="2.5" d="M1232.0,319.9 C1297.0,319.9 1297.0,319.9 1362.0,319.9"/>
+<path class="c" stroke-width="2.5" d="M1232.0,354.1 C1297.0,354.1 1297.0,499.0 1362.0,499.0"/>
+<path class="c" stroke-width="2.5" d="M971.5,394.0 C971.5,424.0 971.5,412.0 971.5,442.0"/>
+<path class="c" stroke-width="2.5" d="M2013.0,337.0 C1948.0,337.0 1948.0,499.0 1883.0,499.0"/>
+<path class="c" stroke-width="2.5" d="M2273.5,394.0 C2273.5,424.0 2273.5,412.0 2273.5,442.0"/>
+<path class="c" stroke-width="2.5" d="M711.0,1845.0 C646.0,1845.0 646.0,1845.0 581.0,1845.0"/>
+<path class="c" stroke-width="2.5" d="M1362.0,1845.0 C1297.0,1845.0 1297.0,1845.0 1232.0,1845.0"/>
+<path class="c" stroke-width="2.5" d="M1883.0,1845.0 C1948.0,1845.0 1948.0,1845.0 2013.0,1845.0"/>
+</g>
+<g class="cards">
+<text class="r" font-size="28.65" text-anchor="start" x="120.0" y="614.0">0..n</text>
+<text class="r" font-size="28.65" text-anchor="start" x="120.0" y="1740.0">1..n</text>
+<text class="r" font-size="28.65" text-anchor="end" x="463.0" y="1051.0">1..n</text>
+<text class="r" font-size="28.65" text-anchor="end" x="463.0" y="1486.0">1..n</text>
+<text class="r" font-size="28.65" text-anchor="start" x="696.0" y="830.0">1..n</text>
+<text class="r" font-size="28.65" text-anchor="start" x="696.0" y="986.0">0..n</text>
+<text class="r" font-size="28.65" text-anchor="start" x="696.0" y="1154.0">0..n</text>
+<text class="r" font-size="28.65" text-anchor="start" x="696.0" y="1552.0">0..n</text>
+<text class="r" font-size="28.65" text-anchor="end" x="1015.0" y="960.0">1..n</text>
+<text class="r" font-size="28.65" text-anchor="end" x="1015.0" y="1134.0">1</text>
+<text class="r" font-size="28.65" text-anchor="start" x="1248.0" y="1078.0">0..n</text>
+<text class="r" font-size="28.65" text-anchor="start" x="1248.0" y="1286.0">0..n</text>
+<text class="r" font-size="28.65" text-anchor="end" x="1567.0" y="815.0">1..n</text>
+<text class="r" font-size="28.65" text-anchor="end" x="1567.0" y="1376.0">0..n</text>
+<text class="r" font-size="28.65" text-anchor="start" x="1800.0" y="906.0">0..n</text>
+<text class="r" font-size="28.65" text-anchor="start" x="1800.0" y="1044.0">0..n</text>
+<text class="r" font-size="28.65" text-anchor="start" x="1884.5" y="1224.0">0..n</text>
+<text class="r" font-size="28.65" text-anchor="start" x="1800.0" y="1442.0">0..n</text>
+<text class="r" font-size="28.65" text-anchor="end" x="2119.0" y="1164.0">0..n</text>
+<text class="r" font-size="28.65" text-anchor="start" x="2075.1" y="614.0">0..1</text>
+<text class="r" font-size="28.65" text-anchor="end" x="2119.0" y="1408.0">0..n</text>
+<text class="r" font-size="28.65" text-anchor="start" x="2352.0" y="1068.0">0..n</text>
+<text class="r" font-size="28.65" text-anchor="start" x="2352.0" y="1312.0">0..n</text>
+<text class="r" font-size="28.65" text-anchor="end" x="702.0" y="329.0">1..n</text>
+<text class="r" font-size="28.65" text-anchor="start" x="330.5" y="432.0">0..n</text>
+<text class="r" font-size="28.65" text-anchor="end" x="1353.0" y="311.9">0..n</text>
+<text class="r" font-size="28.65" text-anchor="end" x="1353.0" y="528.0">0..n</text>
+<text class="r" font-size="28.65" text-anchor="start" x="981.5" y="432.0">0..n</text>
+<text class="r" font-size="28.65" text-anchor="start" x="1892.0" y="528.0">0..n</text>
+<text class="r" font-size="28.65" text-anchor="start" x="2283.5" y="432.0">0..n</text>
+<text class="r" font-size="28.65" text-anchor="start" x="590.0" y="1837.0">2</text>
+<text class="r" font-size="28.65" text-anchor="start" x="1241.0" y="1837.0">1..n</text>
+<text class="r" font-size="28.65" text-anchor="end" x="2004.0" y="1837.0">1..n</text>
+</g>
+<g class="nodes">
+<a href="https://github.com/continuous-architecture/workspace/blob/main/projets/metamodeles/metamodele-ea.md#principe" xlink:href="https://github.com/continuous-architecture/workspace/blob/main/projets/metamodeles/metamodele-ea.md#principe" target="_top"><title>Principe</title>
+<g class="node" data-anchor="principe" data-label="Principe">
+<path fill="#fbfbfb" stroke="#1b2935" stroke-width="2" d="M67.5,292 Q60,292 60,299.5 L60,374.5 Q60,382 67.5,382 L573.5,382 Q581,382 581,374.5 L581,299.5 Q581,292 573.5,292 Z"/>
+<text class="b" font-size="28.65" text-anchor="middle" x="320.5" y="336">Principe</text>
+<text class="r" font-size="21.5" text-anchor="middle" x="320.5" y="364">énoncé, justification, implications</text>
+</g>
+</a>
+<a href="https://github.com/continuous-architecture/workspace/blob/main/projets/metamodeles/metamodele-ea.md#pratique" xlink:href="https://github.com/continuous-architecture/workspace/blob/main/projets/metamodeles/metamodele-ea.md#pratique" target="_top"><title>Pratique</title>
+<g class="node" data-anchor="pratique" data-label="Pratique">
+<path fill="#fbfbfb" stroke="#1b2935" stroke-width="2" d="M167.5,442 Q160,442 160,449.5 L160,548.5 Q160,556 167.5,556 L573.5,556 Q581,556 581,548.5 L581,449.5 Q581,442 573.5,442 Z"/>
+<text class="b" font-size="28.65" text-anchor="middle" x="370.5" y="482">Pratique</text>
+<text class="r" font-size="21.5" text-anchor="middle" x="370.5" y="510">ce que font les équipes, et pourquoi ;</text>
+<text class="r" font-size="21.5" text-anchor="middle" x="370.5" y="538">radar : adopt | trial | assess | hold</text>
+</g>
+</a>
+<a href="https://github.com/continuous-architecture/workspace/blob/main/projets/metamodeles/metamodele-ea.md#r%C3%A8gle" xlink:href="https://github.com/continuous-architecture/workspace/blob/main/projets/metamodeles/metamodele-ea.md#r%C3%A8gle" target="_top"><title>Règle</title>
+<g class="node" data-anchor="règle" data-label="Règle">
+<path fill="#fbfbfb" stroke="#1b2935" stroke-width="2" d="M718.5,280 Q711,280 711,287.5 L711,386.5 Q711,394 718.5,394 L1224.5,394 Q1232,394 1232,386.5 L1232,287.5 Q1232,280 1224.5,280 Z"/>
+<text class="b" font-size="28.65" text-anchor="middle" x="971.5" y="320">Règle</text>
+<text class="r" font-size="21.5" text-anchor="middle" x="971.5" y="348">contrainte vérifiable ;</text>
+<text class="r" font-size="21.5" text-anchor="middle" x="971.5" y="376">risque, sévérité, délai de remédiation</text>
+</g>
+</a>
+<a href="https://github.com/continuous-architecture/workspace/blob/main/projets/metamodeles/metamodele-ea.md#pattern" xlink:href="https://github.com/continuous-architecture/workspace/blob/main/projets/metamodeles/metamodele-ea.md#pattern" target="_top"><title>Pattern</title>
+<g class="node" data-anchor="pattern" data-label="Pattern">
+<path fill="#fbfbfb" stroke="#1b2935" stroke-width="2" d="M718.5,442 Q711,442 711,449.5 L711,548.5 Q711,556 718.5,556 L1224.5,556 Q1232,556 1232,548.5 L1232,449.5 Q1232,442 1224.5,442 Z"/>
+<text class="b" font-size="28.65" text-anchor="middle" x="971.5" y="482">Pattern</text>
+<text class="r" font-size="21.5" text-anchor="middle" x="971.5" y="510">manière réutilisable de respecter une règle ;</text>
+<text class="r" font-size="21.5" text-anchor="middle" x="971.5" y="538">candidat | éprouvé | obsolète</text>
+</g>
+</a>
+<a href="https://github.com/continuous-architecture/workspace/blob/main/projets/metamodeles/metamodele-ea.md#fonction-de-fitness" xlink:href="https://github.com/continuous-architecture/workspace/blob/main/projets/metamodeles/metamodele-ea.md#fonction-de-fitness" target="_top"><title>Fonction de fitness</title>
+<g class="node" data-anchor="fonction-de-fitness" data-label="Fonction de fitness">
+<path fill="#fbfbfb" stroke="#1b2935" stroke-width="2" d="M1369.5,280 Q1362,280 1362,287.5 L1362,386.5 Q1362,394 1369.5,394 L1875.5,394 Q1883,394 1883,386.5 L1883,287.5 Q1883,280 1875.5,280 Z"/>
+<text class="b" font-size="28.65" text-anchor="middle" x="1622.5" y="320">Fonction de fitness</text>
+<text class="r" font-size="21.5" text-anchor="middle" x="1622.5" y="348">contrôle préventif | détectif</text>
+<text class="r" font-size="21.5" text-anchor="middle" x="1622.5" y="376">sur modèle, code ou exécution</text>
+</g>
+</a>
+<a href="https://github.com/continuous-architecture/workspace/blob/main/projets/metamodeles/metamodele-ea.md#d%C3%A9rogation" xlink:href="https://github.com/continuous-architecture/workspace/blob/main/projets/metamodeles/metamodele-ea.md#d%C3%A9rogation" target="_top"><title>Dérogation</title>
+<g class="node" data-anchor="dérogation" data-label="Dérogation">
+<path fill="#fbfbfb" stroke="#1b2935" stroke-width="2" d="M1369.5,442 Q1362,442 1362,449.5 L1362,548.5 Q1362,556 1369.5,556 L1875.5,556 Q1883,556 1883,548.5 L1883,449.5 Q1883,442 1875.5,442 Z"/>
+<text class="b" font-size="28.65" text-anchor="middle" x="1622.5" y="482">Dérogation</text>
+<text class="r" font-size="21.5" text-anchor="middle" x="1622.5" y="510">exception limitée dans le temps</text>
+<text class="r" font-size="21.5" text-anchor="middle" x="1622.5" y="538">pour des éléments nommés</text>
+</g>
+</a>
+<a href="https://github.com/continuous-architecture/workspace/blob/main/projets/metamodeles/metamodele-ea.md#d%C3%A9cision" xlink:href="https://github.com/continuous-architecture/workspace/blob/main/projets/metamodeles/metamodele-ea.md#d%C3%A9cision" target="_top"><title>Décision</title>
+<g class="node" data-anchor="décision" data-label="Décision">
+<path fill="#fbfbfb" stroke="#1b2935" stroke-width="2" d="M2020.5,280 Q2013,280 2013,287.5 L2013,386.5 Q2013,394 2020.5,394 L2526.5,394 Q2534,394 2534,386.5 L2534,287.5 Q2534,280 2526.5,280 Z"/>
+<text class="b" font-size="28.65" text-anchor="middle" x="2273.5" y="320">Décision</text>
+<text class="r" font-size="21.5" text-anchor="middle" x="2273.5" y="348">contexte, alternatives, conséquences, portée ;</text>
+<text class="r" font-size="21.5" text-anchor="middle" x="2273.5" y="376">établit principes, règles, patterns, plateaux, écarts</text>
+</g>
+</a>
+<a href="https://github.com/continuous-architecture/workspace/blob/main/projets/metamodeles/metamodele-ea.md#technologie" xlink:href="https://github.com/continuous-architecture/workspace/blob/main/projets/metamodeles/metamodele-ea.md#technologie" target="_top"><title>Technologie</title>
+<g class="node" data-anchor="technologie" data-label="Technologie">
+<path fill="#fbfbfb" stroke="#1b2935" stroke-width="2" d="M2020.5,442 Q2013,442 2013,449.5 L2013,548.5 Q2013,556 2020.5,556 L2526.5,556 Q2534,556 2534,548.5 L2534,449.5 Q2534,442 2526.5,442 Z"/>
+<text class="b" font-size="28.65" text-anchor="middle" x="2273.5" y="482">Technologie</text>
+<text class="r" font-size="21.5" text-anchor="middle" x="2273.5" y="510">composant | bibliothèque | runtime ;</text>
+<text class="r" font-size="21.5" text-anchor="middle" x="2273.5" y="538">radar : adopt | trial | assess | hold</text>
+</g>
+</a>
+<a href="https://github.com/continuous-architecture/workspace/blob/main/projets/metamodeles/metamodele-ea.md#entreprise" xlink:href="https://github.com/continuous-architecture/workspace/blob/main/projets/metamodeles/metamodele-ea.md#entreprise" target="_top"><title>Entreprise</title>
+<g class="node" data-anchor="entreprise" data-label="Entreprise">
+<path fill="#fbfbfb" stroke="#1b2935" stroke-width="2" d="M67.5,1190 Q60,1190 60,1197.5 L60,1318.5 Q60,1326 67.5,1326 L352.5,1326 Q360,1326 360,1318.5 L360,1197.5 Q360,1190 352.5,1190 Z"/>
+<text class="b" font-size="45.1" text-anchor="middle" x="210" y="1251">Entreprise</text>
+<text class="r" font-size="21.5" text-anchor="middle" x="210" y="1284">la racine : l'organisation</text>
+<text class="r" font-size="21.5" text-anchor="middle" x="210" y="1312">dont on décrit l'architecture</text>
+</g>
+</a>
+<a href="https://github.com/continuous-architecture/workspace/blob/main/projets/metamodeles/metamodele-ea.md#cha%C3%AEne-de-valeur" xlink:href="https://github.com/continuous-architecture/workspace/blob/main/projets/metamodeles/metamodele-ea.md#cha%C3%AEne-de-valeur" target="_top"><title>Chaîne de valeur</title>
+<g class="node" data-anchor="chaîne-de-valeur" data-label="Chaîne de valeur">
+<path fill="#fbfbfb" stroke="#1b2935" stroke-width="2" d="M501.5,678 Q494,678 494,685.5 L494,784.5 Q494,792 501.5,792 L870.5,792 Q878,792 878,784.5 L878,685.5 Q878,678 870.5,678 Z"/>
+<text class="b" font-size="28.65" text-anchor="middle" x="686" y="718">Chaîne de valeur</text>
+<text class="r" font-size="21.5" text-anchor="middle" x="686" y="746">étapes ordonnées, chacune</text>
+<text class="r" font-size="21.5" text-anchor="middle" x="686" y="774">une capacité métier</text>
+</g>
+</a>
+<a href="https://github.com/continuous-architecture/workspace/blob/main/projets/metamodeles/metamodele-ea.md#capacit%C3%A9" xlink:href="https://github.com/continuous-architecture/workspace/blob/main/projets/metamodeles/metamodele-ea.md#capacit%C3%A9" target="_top"><title>Capacité</title>
+<g class="node" data-anchor="capacité" data-label="Capacité">
+<path fill="#fbfbfb" stroke="#1b2935" stroke-width="2" d="M501.5,840 Q494,840 494,847.5 L494,946.5 Q494,954 501.5,954 L870.5,954 Q878,954 878,946.5 L878,847.5 Q878,840 870.5,840 Z"/>
+<text class="b" font-size="28.65" text-anchor="middle" x="686" y="880">Capacité</text>
+<text class="r" font-size="21.5" text-anchor="middle" x="686" y="908">ce que l'entreprise sait faire :</text>
+<text class="r" font-size="21.5" text-anchor="middle" x="686" y="936">métier | technique</text>
+</g>
+</a>
+<a href="https://github.com/continuous-architecture/workspace/blob/main/projets/metamodeles/metamodele-ea.md#objectif-strat%C3%A9gique" xlink:href="https://github.com/continuous-architecture/workspace/blob/main/projets/metamodeles/metamodele-ea.md#objectif-strat%C3%A9gique" target="_top"><title>Objectif stratégique</title>
+<g class="node" data-anchor="objectif-stratégique" data-label="Objectif stratégique">
+<path fill="#fbfbfb" stroke="#1b2935" stroke-width="2" d="M501.5,1002 Q494,1002 494,1009.5 L494,1108.5 Q494,1116 501.5,1116 L870.5,1116 Q878,1116 878,1108.5 L878,1009.5 Q878,1002 870.5,1002 Z"/>
+<text class="b" font-size="28.65" text-anchor="middle" x="686" y="1042">Objectif stratégique</text>
+<text class="r" font-size="21.5" text-anchor="middle" x="686" y="1070">résultat visé, mesuré par des</text>
+<text class="r" font-size="21.5" text-anchor="middle" x="686" y="1098">indicateurs, avec une échéance</text>
+</g>
+</a>
+<a href="https://github.com/continuous-architecture/workspace/blob/main/projets/metamodeles/metamodele-ea.md#indicateur" xlink:href="https://github.com/continuous-architecture/workspace/blob/main/projets/metamodeles/metamodele-ea.md#indicateur" target="_top"><title>Indicateur</title>
+<g class="node" data-anchor="indicateur" data-label="Indicateur">
+<path fill="#fbfbfb" stroke="#1b2935" stroke-width="2" d="M501.5,1164 Q494,1164 494,1171.5 L494,1270.5 Q494,1278 501.5,1278 L870.5,1278 Q878,1278 878,1270.5 L878,1171.5 Q878,1164 870.5,1164 Z"/>
+<text class="b" font-size="28.65" text-anchor="middle" x="686" y="1204">Indicateur</text>
+<text class="r" font-size="21.5" text-anchor="middle" x="686" y="1232">mesure, source, fréquence ;</text>
+<text class="r" font-size="21.5" text-anchor="middle" x="686" y="1260">avancé | retardé</text>
+</g>
+</a>
+<a href="https://github.com/continuous-architecture/workspace/blob/main/projets/metamodeles/metamodele-ea.md#%C3%A9quipe" xlink:href="https://github.com/continuous-architecture/workspace/blob/main/projets/metamodeles/metamodele-ea.md#%C3%A9quipe" target="_top"><title>Équipe</title>
+<g class="node" data-anchor="équipe" data-label="Équipe">
+<path fill="#fbfbfb" stroke="#1b2935" stroke-width="2" d="M501.5,1400 Q494,1400 494,1407.5 L494,1506.5 Q494,1514 501.5,1514 L870.5,1514 Q878,1514 878,1506.5 L878,1407.5 Q878,1400 870.5,1400 Z"/>
+<text class="b" font-size="28.65" text-anchor="middle" x="686" y="1440">Équipe</text>
+<text class="r" font-size="21.5" text-anchor="middle" x="686" y="1468">stream-aligned | platform |</text>
+<text class="r" font-size="21.5" text-anchor="middle" x="686" y="1496">enabling | complicated-subsystem</text>
+</g>
+</a>
+<a href="https://github.com/continuous-architecture/workspace/blob/main/projets/metamodeles/metamodele-ea.md#responsabilit%C3%A9" xlink:href="https://github.com/continuous-architecture/workspace/blob/main/projets/metamodeles/metamodele-ea.md#responsabilit%C3%A9" target="_top"><title>Responsabilité</title>
+<g class="node" data-anchor="responsabilité" data-label="Responsabilité">
+<path fill="#fbfbfb" stroke="#1b2935" stroke-width="2" d="M501.5,1562 Q494,1562 494,1569.5 L494,1692.5 Q494,1700 501.5,1700 L870.5,1700 Q878,1700 878,1692.5 L878,1569.5 Q878,1562 870.5,1562 Z"/>
+<text class="b" font-size="28.65" text-anchor="middle" x="686" y="1598">Responsabilité</text>
+<text class="r" font-size="21.5" text-anchor="middle" x="686" y="1626">une équipe, un élément, un rôle :</text>
+<text class="r" font-size="21.5" text-anchor="middle" x="686" y="1654">propriétaire | sponsor |</text>
+<text class="r" font-size="21.5" text-anchor="middle" x="686" y="1682">intendant | exploitant</text>
+</g>
+</a>
+<a href="https://github.com/continuous-architecture/workspace/blob/main/projets/metamodeles/metamodele-ea.md#sous-domaine" xlink:href="https://github.com/continuous-architecture/workspace/blob/main/projets/metamodeles/metamodele-ea.md#sous-domaine" target="_top"><title>Sous-domaine</title>
+<g class="node" data-anchor="sous-domaine" data-label="Sous-domaine">
+<path fill="#fbfbfb" stroke="#1b2935" stroke-width="2" d="M1053.5,874 Q1046,874 1046,881.5 L1046,980.5 Q1046,988 1053.5,988 L1422.5,988 Q1430,988 1430,980.5 L1430,881.5 Q1430,874 1422.5,874 Z"/>
+<text class="b" font-size="28.65" text-anchor="middle" x="1238" y="914">Sous-domaine</text>
+<text class="r" font-size="21.5" text-anchor="middle" x="1238" y="942">espace du problème :</text>
+<text class="r" font-size="21.5" text-anchor="middle" x="1238" y="970">cœur | support | générique</text>
+</g>
+</a>
+<a href="https://github.com/continuous-architecture/workspace/blob/main/projets/metamodeles/metamodele-ea.md#contexte-born%C3%A9" xlink:href="https://github.com/continuous-architecture/workspace/blob/main/projets/metamodeles/metamodele-ea.md#contexte-born%C3%A9" target="_top"><title>Contexte borné</title>
+<g class="node" data-anchor="contexte-borné" data-label="Contexte borné">
+<path fill="#fbfbfb" stroke="#1b2935" stroke-width="2" d="M1053.5,1088 Q1046,1088 1046,1095.5 L1046,1188.5 Q1046,1196 1053.5,1196 L1422.5,1196 Q1430,1196 1430,1188.5 L1430,1095.5 Q1430,1088 1422.5,1088 Z"/>
+<text class="b" font-size="45.1" text-anchor="middle" x="1238" y="1149">Contexte borné</text>
+<text class="r" font-size="21.5" text-anchor="middle" x="1238" y="1182">un langage, une équipe propriétaire</text>
+</g>
+</a>
+<a href="https://github.com/continuous-architecture/workspace/blob/main/projets/metamodeles/metamodele-ea.md#agr%C3%A9gat" xlink:href="https://github.com/continuous-architecture/workspace/blob/main/projets/metamodeles/metamodele-ea.md#agr%C3%A9gat" target="_top"><title>Agrégat</title>
+<g class="node" data-anchor="agrégat" data-label="Agrégat">
+<path fill="#fbfbfb" stroke="#1b2935" stroke-width="2" d="M1053.5,1296 Q1046,1296 1046,1303.5 L1046,1402.5 Q1046,1410 1053.5,1410 L1422.5,1410 Q1430,1410 1430,1402.5 L1430,1303.5 Q1430,1296 1422.5,1296 Z"/>
+<text class="b" font-size="28.65" text-anchor="middle" x="1238" y="1336">Agrégat</text>
+<text class="r" font-size="21.5" text-anchor="middle" x="1238" y="1364">frontière de cohérence ;</text>
+<text class="r" font-size="21.5" text-anchor="middle" x="1238" y="1392">système de référence de ses données</text>
+</g>
+</a>
+<a href="https://github.com/continuous-architecture/workspace/blob/main/projets/metamodeles/metamodele-ea.md#syst%C3%A8me" xlink:href="https://github.com/continuous-architecture/workspace/blob/main/projets/metamodeles/metamodele-ea.md#syst%C3%A8me" target="_top"><title>Système</title>
+<g class="node" data-anchor="système" data-label="Système">
+<path fill="#fbfbfb" stroke="#1b2935" stroke-width="2" d="M1605.5,778 Q1598,778 1598,785.5 L1598,860.5 Q1598,868 1605.5,868 L1974.5,868 Q1982,868 1982,860.5 L1982,785.5 Q1982,778 1974.5,778 Z"/>
+<text class="b" font-size="28.65" text-anchor="middle" x="1790" y="822">Système</text>
+<text class="r" font-size="21.5" text-anchor="middle" x="1790" y="850">unité du portefeuille applicatif</text>
+</g>
+</a>
+<a href="https://github.com/continuous-architecture/workspace/blob/main/projets/metamodeles/metamodele-ea.md#conteneur" xlink:href="https://github.com/continuous-architecture/workspace/blob/main/projets/metamodeles/metamodele-ea.md#conteneur" target="_top"><title>Conteneur</title>
+<g class="node" data-anchor="conteneur" data-label="Conteneur">
+<path fill="#fbfbfb" stroke="#1b2935" stroke-width="2" d="M1605.5,916 Q1598,916 1598,923.5 L1598,998.5 Q1598,1006 1605.5,1006 L1974.5,1006 Q1982,1006 1982,998.5 L1982,923.5 Q1982,916 1974.5,916 Z"/>
+<text class="b" font-size="28.65" text-anchor="middle" x="1790" y="960">Conteneur</text>
+<text class="r" font-size="21.5" text-anchor="middle" x="1790" y="988">unité déployable ou exécutable</text>
+</g>
+</a>
+<a href="https://github.com/continuous-architecture/workspace/blob/main/projets/metamodeles/metamodele-ea.md#api" xlink:href="https://github.com/continuous-architecture/workspace/blob/main/projets/metamodeles/metamodele-ea.md#api" target="_top"><title>API</title>
+<g class="node" data-anchor="api" data-label="API">
+<path fill="#fbfbfb" stroke="#1b2935" stroke-width="2" d="M1605.5,1054 Q1598,1054 1598,1061.5 L1598,1160.5 Q1598,1168 1605.5,1168 L1974.5,1168 Q1982,1168 1982,1160.5 L1982,1061.5 Q1982,1054 1974.5,1054 Z"/>
+<text class="b" font-size="28.65" text-anchor="middle" x="1790" y="1094">API</text>
+<text class="r" font-size="21.5" text-anchor="middle" x="1790" y="1122">surface publiée ; consommée via des</text>
+<text class="r" font-size="21.5" text-anchor="middle" x="1790" y="1150">dépendances avec criticité</text>
+</g>
+</a>
+<a href="https://github.com/continuous-architecture/workspace/blob/main/projets/metamodeles/metamodele-ea.md#sch%C3%A9ma" xlink:href="https://github.com/continuous-architecture/workspace/blob/main/projets/metamodeles/metamodele-ea.md#sch%C3%A9ma" target="_top"><title>Schéma</title>
+<g class="node" data-anchor="schéma" data-label="Schéma">
+<path fill="#fbfbfb" stroke="#1b2935" stroke-width="2" d="M1605.5,1290 Q1598,1290 1598,1297.5 L1598,1396.5 Q1598,1404 1605.5,1404 L1974.5,1404 Q1982,1404 1982,1396.5 L1982,1297.5 Q1982,1290 1974.5,1290 Z"/>
+<text class="b" font-size="28.65" text-anchor="middle" x="1790" y="1330">Schéma</text>
+<text class="r" font-size="21.5" text-anchor="middle" x="1790" y="1358">forme des données, stockées ou</text>
+<text class="r" font-size="21.5" text-anchor="middle" x="1790" y="1386">échangées ; classification, rétention</text>
+</g>
+</a>
+<a href="https://github.com/continuous-architecture/workspace/blob/main/projets/metamodeles/metamodele-ea.md#lignage" xlink:href="https://github.com/continuous-architecture/workspace/blob/main/projets/metamodeles/metamodele-ea.md#lignage" target="_top"><title>Lignage</title>
+<g class="node" data-anchor="lignage" data-label="Lignage">
+<path fill="#fbfbfb" stroke="#1b2935" stroke-width="2" d="M1605.5,1452 Q1598,1452 1598,1459.5 L1598,1534.5 Q1598,1542 1605.5,1542 L1974.5,1542 Q1982,1542 1982,1534.5 L1982,1459.5 Q1982,1452 1974.5,1452 Z"/>
+<text class="b" font-size="28.65" text-anchor="middle" x="1790" y="1496">Lignage</text>
+<text class="r" font-size="21.5" text-anchor="middle" x="1790" y="1524">un schéma dérive d'un autre</text>
+</g>
+</a>
+<a href="https://github.com/continuous-architecture/workspace/blob/main/projets/metamodeles/metamodele-ea.md#environnement" xlink:href="https://github.com/continuous-architecture/workspace/blob/main/projets/metamodeles/metamodele-ea.md#environnement" target="_top"><title>Environnement</title>
+<g class="node" data-anchor="environnement" data-label="Environnement">
+<path fill="#fbfbfb" stroke="#1b2935" stroke-width="2" d="M2157.5,858 Q2150,858 2150,865.5 L2150,940.5 Q2150,948 2157.5,948 L2526.5,948 Q2534,948 2534,940.5 L2534,865.5 Q2534,858 2526.5,858 Z"/>
+<text class="b" font-size="28.65" text-anchor="middle" x="2342" y="902">Environnement</text>
+<text class="r" font-size="21.5" text-anchor="middle" x="2342" y="930">production, préproduction, …</text>
+</g>
+</a>
+<a href="https://github.com/continuous-architecture/workspace/blob/main/projets/metamodeles/metamodele-ea.md#n%C5%93ud" xlink:href="https://github.com/continuous-architecture/workspace/blob/main/projets/metamodeles/metamodele-ea.md#n%C5%93ud" target="_top"><title>Nœud</title>
+<g class="node" data-anchor="nœud" data-label="Nœud">
+<path fill="#fbfbfb" stroke="#1b2935" stroke-width="2" d="M2157.5,1078 Q2150,1078 2150,1085.5 L2150,1184.5 Q2150,1192 2157.5,1192 L2526.5,1192 Q2534,1192 2534,1184.5 L2534,1085.5 Q2534,1078 2526.5,1078 Z"/>
+<text class="b" font-size="28.65" text-anchor="middle" x="2342" y="1118">Nœud</text>
+<text class="r" font-size="21.5" text-anchor="middle" x="2342" y="1146">où tournent les conteneurs : four-</text>
+<text class="r" font-size="21.5" text-anchor="middle" x="2342" y="1174">nisseur, région, zone ; imbriqués</text>
+</g>
+</a>
+<a href="https://github.com/continuous-architecture/workspace/blob/main/projets/metamodeles/metamodele-ea.md#ressource" xlink:href="https://github.com/continuous-architecture/workspace/blob/main/projets/metamodeles/metamodele-ea.md#ressource" target="_top"><title>Ressource</title>
+<g class="node" data-anchor="ressource" data-label="Ressource">
+<path fill="#fbfbfb" stroke="#1b2935" stroke-width="2" d="M2157.5,1322 Q2150,1322 2150,1329.5 L2150,1428.5 Q2150,1436 2157.5,1436 L2526.5,1436 Q2534,1436 2534,1428.5 L2534,1329.5 Q2534,1322 2526.5,1322 Z"/>
+<text class="b" font-size="28.65" text-anchor="middle" x="2342" y="1362">Ressource</text>
+<text class="r" font-size="21.5" text-anchor="middle" x="2342" y="1390">unité provisionnée ; où vivent</text>
+<text class="r" font-size="21.5" text-anchor="middle" x="2342" y="1418">les données ; mutualisation</text>
+</g>
+</a>
+<a href="https://github.com/continuous-architecture/workspace/blob/main/projets/metamodeles/metamodele-ea.md#plateau" xlink:href="https://github.com/continuous-architecture/workspace/blob/main/projets/metamodeles/metamodele-ea.md#plateau" target="_top"><title>Plateau</title>
+<g class="node" data-anchor="plateau" data-label="Plateau">
+<path fill="#fbfbfb" stroke="#1b2935" stroke-width="2" d="M67.5,1788 Q60,1788 60,1795.5 L60,1894.5 Q60,1902 67.5,1902 L573.5,1902 Q581,1902 581,1894.5 L581,1795.5 Q581,1788 573.5,1788 Z"/>
+<text class="b" font-size="28.65" text-anchor="middle" x="320.5" y="1828">Plateau</text>
+<text class="r" font-size="21.5" text-anchor="middle" x="320.5" y="1856">existant | transition | cible ;</text>
+<text class="r" font-size="21.5" text-anchor="middle" x="320.5" y="1884">éléments avec provenance et date de vérification</text>
+</g>
+</a>
+<a href="https://github.com/continuous-architecture/workspace/blob/main/projets/metamodeles/metamodele-ea.md#%C3%A9cart" xlink:href="https://github.com/continuous-architecture/workspace/blob/main/projets/metamodeles/metamodele-ea.md#%C3%A9cart" target="_top"><title>Écart</title>
+<g class="node" data-anchor="écart" data-label="Écart">
+<path fill="#fbfbfb" stroke="#1b2935" stroke-width="2" d="M718.5,1788 Q711,1788 711,1795.5 L711,1894.5 Q711,1902 718.5,1902 L1224.5,1902 Q1232,1902 1232,1894.5 L1232,1795.5 Q1232,1788 1224.5,1788 Z"/>
+<text class="b" font-size="28.65" text-anchor="middle" x="971.5" y="1828">Écart</text>
+<text class="r" font-size="21.5" text-anchor="middle" x="971.5" y="1856">la différence entre deux plateaux ;</text>
+<text class="r" font-size="21.5" text-anchor="middle" x="971.5" y="1884">impact, effort</text>
+</g>
+</a>
+<a href="https://github.com/continuous-architecture/workspace/blob/main/projets/metamodeles/metamodele-ea.md#initiative" xlink:href="https://github.com/continuous-architecture/workspace/blob/main/projets/metamodeles/metamodele-ea.md#initiative" target="_top"><title>Initiative</title>
+<g class="node" data-anchor="initiative" data-label="Initiative">
+<path fill="#fbfbfb" stroke="#1b2935" stroke-width="2" d="M1369.5,1788 Q1362,1788 1362,1795.5 L1362,1894.5 Q1362,1902 1369.5,1902 L1875.5,1902 Q1883,1902 1883,1894.5 L1883,1795.5 Q1883,1788 1875.5,1788 Z"/>
+<text class="b" font-size="28.65" text-anchor="middle" x="1622.5" y="1828">Initiative</text>
+<text class="r" font-size="21.5" text-anchor="middle" x="1622.5" y="1856">ensemble de travaux qui comble des</text>
+<text class="r" font-size="21.5" text-anchor="middle" x="1622.5" y="1884">écarts et sert des objectifs</text>
+</g>
+</a>
+<a href="https://github.com/continuous-architecture/workspace/blob/main/projets/metamodeles/metamodele-ea.md#jalon" xlink:href="https://github.com/continuous-architecture/workspace/blob/main/projets/metamodeles/metamodele-ea.md#jalon" target="_top"><title>Jalon</title>
+<g class="node" data-anchor="jalon" data-label="Jalon">
+<path fill="#fbfbfb" stroke="#1b2935" stroke-width="2" d="M2020.5,1788 Q2013,1788 2013,1795.5 L2013,1894.5 Q2013,1902 2020.5,1902 L2526.5,1902 Q2534,1902 2534,1894.5 L2534,1795.5 Q2534,1788 2526.5,1788 Z"/>
+<text class="b" font-size="28.65" text-anchor="middle" x="2273.5" y="1828">Jalon</text>
+<text class="r" font-size="21.5" text-anchor="middle" x="2273.5" y="1856">point de contrôle daté ; plateau atteint,</text>
+<text class="r" font-size="21.5" text-anchor="middle" x="2273.5" y="1884">valeur d'indicateur apportée</text>
+</g>
+</a>
+</g>
+
+<g class="legend">
+<rect x="160" y="2007" width="48" height="30" rx="6" fill="none" stroke="#1b2935" stroke-width="2" stroke-dasharray="11 8"/>
+<text class="r" font-size="21.5" x="222.0" y="2030">portée entreprise — décrite par ce métamodèle</text>
+<rect x="688.263" y="2007" width="48" height="30" rx="6" fill="#dedede" stroke="#1b2935" stroke-width="2"/>
+<text class="r" font-size="21.5" x="750.3" y="2030">portée contexte borné — décrite par les modèles détaillés des équipes (domaine, architecture, données)</text>
+</g>
+</svg>
